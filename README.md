@@ -1,4 +1,4 @@
-##TFT Set 18 Trait Tool
+## TFT Set 18 Trait Tool
 
 This tool is a mathematical optimization program designed for Teamfight Tactics (TFT) Set 18. It calculates the best possible boards to maximize the number of active traits for a given board size while strictly minimizing the total gold cost.
 
