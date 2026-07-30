@@ -33,6 +33,7 @@ Ensure you have [Python](https://www.python.org/downloads/) installed on your sy
 The application requires the `pulp` library to solve optimization problems. Install it via terminal/command prompt:
 ```bash
 pip install pulp
+```
 
 ### 3. Run the Application
 
@@ -40,3 +41,4 @@ Save the script as a Python file (e.g., `tool.py`) and execute it via your termi
 
 ```bash
 python tool.py
+```
